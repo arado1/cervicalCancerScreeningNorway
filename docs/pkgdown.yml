@@ -1,0 +1,9 @@
+pandoc: '3.2'
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles:
+  Norwegian_Screening_Guidelines: Norwegian_Screening_Guidelines.html
+last_built: 2025-01-26T20:55Z
+urls:
+  reference: https://your-github-username.github.io/Cervical-Cancer-Screening-Norway/reference
+  article: https://your-github-username.github.io/Cervical-Cancer-Screening-Norway/articles
