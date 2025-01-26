@@ -1,0 +1,14 @@
+
+---
+title: 'Norwegian Screening Guidelines'
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Norwegian Screening Guidelines}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+## Cervical Cancer Screening in Norway
+
+This vignette provides details about the screening guidelines in Norway.
+

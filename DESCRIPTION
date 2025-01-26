@@ -11,3 +11,5 @@ LazyData: true
 Depends:
   R (>= 4.0)
 RoxygenNote: 7.3.2
+URL: https://your-github-username.github.io/Cervical-Cancer-Screening-Norway
+BugReports: https://github.com/your-github-username/Cervical-Cancer-Screening-Norway/issues

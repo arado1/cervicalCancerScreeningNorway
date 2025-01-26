@@ -1,0 +1,26 @@
+
+# Package documentation site configuration
+template:
+  bootstrap: 5
+  bootswatch: cerulean
+
+navbar:
+  title: 'Cervical Cancer Screening Norway'
+  left:
+    - text: 'Reference'
+      href: reference/index.html
+    - text: 'Articles'
+      href: articles/index.html
+
+url: 'https://your-github-username.github.io/Cervical-Cancer-Screening-Norway'
+
+reference:
+  - title: 'Functions'
+    contents:
+      - screening_recommendation
+
+articles:
+  - title: 'Norwegian Screening Guidelines'
+    contents:
+      - articles/Norwegian_Screening_Guidelines.html
+
