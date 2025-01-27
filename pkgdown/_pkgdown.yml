@@ -5,14 +5,16 @@ template:
   bootswatch: cerulean
 
 navbar:
-  title: 'Cervical Cancer Screening Norway'
+  navbar:
+  title: "Cervical Cancer Screening Norway"
   left:
-    - text: 'Reference'
+    - text: "Reference"
       href: reference/index.html
-    - text: 'Articles'
-      href: articles/index.html
+    - text: "Shiny App"
+      href: https://amir-rad.shinyapps.io/shinyapp/
 
-url: 'https://your-github-username.github.io/Cervical-Cancer-Screening-Norway'
+url: https://arado1.github.io/cervicalCancerScreeningNorway/
+
 
 reference:
   - title: 'Functions'
